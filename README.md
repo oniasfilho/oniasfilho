@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Onias' github stats](https://github-readme-stats.vercel.app/api?username=oniasfilho)](https://github.com/oniasfilho/github-readme-stats)
+[![Onias' github stats](https://github-readme-stats.vercel.app/api?username=oniasfilho&theme=radical)](https://github.com/oniasfilho/github-readme-stats)
 
 <!--
 **oniasfilho/oniasfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
