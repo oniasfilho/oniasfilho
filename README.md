@@ -5,7 +5,7 @@ My name is Onias da Rocha, I'm a Computer Information Systems student at the Fed
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oniasfilho)](https://github.com/oniasfilho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oniasfilho/)](https://www.linkedin.com/in/oniasfilho/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=bit.ly/oniasfilho-whatsapp)](bit.ly/oniasfilho-whatsapp)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/message/LHMOAQCEPVERO1)](https://wa.me/message/LHMOAQCEPVERO1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onias.filho@gmail.com)](mailto:onias.filho@gmail.com)
 
 
