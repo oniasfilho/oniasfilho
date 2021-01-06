@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oniasfilho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Onias' github stats](https://github-readme-stats.vercel.app/api?username=oniasfilho&theme=radical)](https://github.com/oniasfilho/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oniasfilho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
