@@ -1,7 +1,7 @@
 
 ## Hi :) 
 
-My name is Onias da Rocha, I'm a Computer Information Systems student at the Federal University of Mato Grosso - UFMT and Junior Full Stack Web Developer @ Softplan.
+My name is Onias da Rocha, I'm a Computer Information Systems student at the Federal University of Mato Grosso (UFMT) and Junior Full Stack Web Developer @ Softplan.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oniasfilho)](https://github.com/oniasfilho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oniasfilho/)](https://www.linkedin.com/in/oniasfilho/)
