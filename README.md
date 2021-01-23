@@ -3,6 +3,9 @@
 
 My name is Onias da Rocha, I'm a Computer Information Systems student @ Federal University of Mato Grosso (UFMT) and Junior Full Stack Web Developer @ Softplan.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oniasfilho&label=Profile%20views&color=blueviolet&style=flat-square" alt="oniasfilho" /> </p>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oniasfilho/)](https://www.linkedin.com/in/oniasfilho/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/message/LHMOAQCEPVERO1)](https://wa.me/message/LHMOAQCEPVERO1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onias.filho@gmail.com)](mailto:onias.filho@gmail.com)
