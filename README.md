@@ -1,7 +1,7 @@
 
-## Hi :) 
+## Written and Directed by Christopher Nolan 
 
-My name is Onias da Rocha, I'm a Computer Information Systems student @ Federal University of Mato Grosso (UFMT) and Junior Full Stack Web Developer @ Softplan.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oniasfilho&label=Profile%20views&color=blueviolet&style=flat-square" alt="oniasfilho" /> </p>
 
