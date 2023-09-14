@@ -1,6 +1,6 @@
 ## Hi there, I'm Onias da Rocha
 
-👨‍💻 **Software Engineer** with 3 years of experience  
+👨‍💻 **Software Engineer** with over 3 years of experience  
 🏢 **Currently**: Software Engineer @ [Mercado Livre](https://www.mercadolivre.com.br/)
 
 ### Tech Stack
