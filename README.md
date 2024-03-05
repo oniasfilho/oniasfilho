@@ -1,7 +1,6 @@
-### Hi there, I'm Onias da Rocha
+### Hi there, I'm Onias 💛
 
-👨‍💻 **Software Engineer** with over 3 years of experience  
-🏢 **Currently**: Software Engineer @ [Mercado Livre](https://www.mercadolivre.com.br/)
+👨‍💻 **Software Engineer** @ [Mercado Livre](https://www.mercadolivre.com.br/)
 
 #### Tech Stack
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
